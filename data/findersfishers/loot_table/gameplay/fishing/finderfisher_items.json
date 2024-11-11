@@ -1,0 +1,481 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:black_bundle",
+                    "weight": 5,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "diamond",
+                                        "count": 2
+                                    },
+                                    {
+                                        "id": "emerald",
+                                        "count": 3
+                                    },
+                                    {
+                                        "id": "paper",
+                                        "count": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:light_blue_bundle",
+                    "weight": 10,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "salmon",
+                                        "count": 7
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:black_bundle",
+                    "weight": 10,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "cod",
+                                        "count": 6
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:white_bundle",
+                    "weight": 10,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "cod",
+                                        "count": 2
+                                    },
+                                    {
+                                        "id": "ink_sac",
+                                        "count": 9
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cyan_bundle",
+                    "weight": 10,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "rotten_flesh",
+                                        "count": 17
+                                    },
+                                    {
+                                        "id": "nautilus_shell",
+                                        "count": 2
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:lime_bundle",
+                    "weight": 5,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "heart_of_the_sea",
+                                        "count": 1
+                                    },
+                                    {
+                                        "id": "prismarine",
+                                        "count": 20
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:purple_bundle",
+                    "weight": 5,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "diamond",
+                                        "count": 2
+                                    },
+                                    {
+                                        "id": "emerald",
+                                        "count": 3
+                                    },
+                                    {
+                                        "id": "paper",
+                                        "count": 1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:pink_bundle",
+                    "weight": 10,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "salmon",
+                                        "count": 7
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:orange_bundle",
+                    "weight": 10,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "cod",
+                                        "count": 6
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:blue_bundle",
+                    "weight": 10,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "cod",
+                                        "count": 2
+                                    },
+                                    {
+                                        "id": "ink_sac",
+                                        "count": 9
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:green_bundle",
+                    "weight": 10,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "rotten_flesh",
+                                        "count": 17
+                                    },
+                                    {
+                                        "id": "nautilus_shell",
+                                        "count": 2
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:red_bundle",
+                    "weight": 5,
+                    "quality": -1,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": {
+                                "text": "Fisherman's Bundle",
+                                "color": "#FFFDD0"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "Someone must have dropped this...",
+                                    "color": "gray"
+                                }
+                            ],
+                            "mode": "replace_all"
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:bundle_contents": [
+                                    {
+                                        "id": "heart_of_the_sea",
+                                        "count": 1
+                                    },
+                                    {
+                                        "id": "prismarine",
+                                        "count": 20
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
