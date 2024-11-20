@@ -1,0 +1,19 @@
+name: Build Datapack
+run-name: ${{ github.actor }} built new datapack release
+on:
+    push:
+        tags:
+            - "v*.*.*"
+jobs:
+    Create-Artifact:
+        runs-on: ubuntu-latest
+        steps:
+            - name: checkout
+              uses: "actions/checkout@v4"
+            - name: export
+              run: git archive -o fishers-finders.zip production
+            - name: release
+              uses: softprops/action-gh-release@v2
+              with:
+                files: fishers-finders.zip
+            
