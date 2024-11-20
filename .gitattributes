@@ -1,0 +1,4 @@
+# git-archive: ignore README.md, etc
+README.md export-ignore
+.git* export-ignore
+.github* export-ignore

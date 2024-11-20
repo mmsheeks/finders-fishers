@@ -1,0 +1,73 @@
+{
+    "pools": [
+        {
+            "rolls": {
+                "max": 12,
+                "min": 3
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "cod",
+                    "weight": 23
+                },
+                {
+                    "type": "item",
+                    "name": "salmon",
+                    "weight": 23
+                },
+                {
+                    "type": "item",
+                    "name": "ink_sac",
+                    "weight": 9
+                },
+                {
+                    "type": "item",
+                    "name": "rotten_flesh",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "gold_nugget",
+                    "weight": 7
+                },
+                {
+                    "type": "item",
+                    "name": "iron_nugget",
+                    "weight": 7
+                },
+                {
+                    "type": "item",
+                    "name": "wheat",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "coal",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "stick",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "string",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "apple",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "bread",
+                    "weight": 5
+                }
+            ]
+        }
+    ],
+    "random_sequence": "gameplay/fishing"
+}

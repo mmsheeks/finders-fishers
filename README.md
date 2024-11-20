@@ -2,9 +2,12 @@
 
 A simple datapack for 1.21+ that adds a variety of bundles with custom loot to the fishing loot tables.
 
-## Development Note
+## Features
 
-This is mostly a proof of concept at this point, but it functions and adds a little flavor to the world. Currently available bundle loot is largely based on pre-existing fishing loot, with a few rarer extras. I plan to add more and more varried bundles if folks show interest in the project.
+- Fisher's bundles can be fished out of any body of water you can normally fish in and are more likely to drop with Luck of the Sea
+- Fished bundles drop a random color
+- Bundles have a variety of different loot, with some treasure options
+- Bundle loot is balanced to be helpful to players, but not too overpowered
 
 ## Suggestions / Bug Reports
 

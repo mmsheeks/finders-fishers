@@ -32,13 +32,13 @@
                     "type": "minecraft:loot_table",
                     "quality": -1,
                     "value": "minecraft:gameplay/fishing/fish",
-                    "weight": 84
+                    "weight": 80
                 },
                 {
                     "type": "minecraft:loot_table",
                     "quality": 2,
                     "value": "findersfishers:gameplay/fishing/finderfisher_items",
-                    "weight": 1
+                    "weight": 5
                 }
             ],
             "rolls": 1.0
