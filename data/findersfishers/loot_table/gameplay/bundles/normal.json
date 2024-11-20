@@ -9,32 +9,62 @@
                 {
                     "type": "item",
                     "name": "cod",
-                    "weight": 50
+                    "weight": 23
                 },
                 {
                     "type": "item",
                     "name": "salmon",
-                    "weight": 50
-                },
-                {
-                    "type": "item",
-                    "name": "cooked_cod",
-                    "weight": 50
-                },
-                {
-                    "type": "item",
-                    "name": "cooked_salmon",
-                    "weight": 50
+                    "weight": 23
                 },
                 {
                     "type": "item",
                     "name": "ink_sac",
-                    "weight": 40
+                    "weight": 9
                 },
                 {
                     "type": "item",
                     "name": "rotten_flesh",
-                    "weight": 40
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "gold_nugget",
+                    "weight": 7
+                },
+                {
+                    "type": "item",
+                    "name": "iron_nugget",
+                    "weight": 7
+                },
+                {
+                    "type": "item",
+                    "name": "wheat",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "coal",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "stick",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "string",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "apple",
+                    "weight": 5
+                },
+                {
+                    "type": "item",
+                    "name": "bread",
+                    "weight": 5
                 }
             ]
         }

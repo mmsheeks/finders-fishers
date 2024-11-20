@@ -6,7 +6,6 @@
                 {
                     "type": "item",
                     "name": "paper",
-                    "quality": 1,
                     "weight": 1,
                     "functions": [
                         {
@@ -26,14 +25,12 @@
                 {
                     "type": "item",
                     "name": "diamond",
-                    "quality": 1,
-                    "weight": 1
+                    "weight": 40
                 },
                 {
                     "type": "item",
                     "name": "emerald",
-                    "quality": 1,
-                    "weight": 1
+                    "weight": 60
                 }
             ]
         }

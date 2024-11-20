@@ -10,17 +10,22 @@
                     "type": "item",
                     "name": "nautilus_shell",
                     "quality": 1,
-                    "weight": 1
+                    "weight": 25
                 },
                 {
                     "type": "item",
                     "name": "heart_of_the_sea",
-                    "weight": 1
+                    "weight": 25
                 },
                 {
                     "type": "item",
                     "name": "angler_pottery_sherd",
-                    "weight": 2
+                    "weight": 20
+                },
+                {
+                    "type": "item",
+                    "name": "iron_axe",
+                    "weight": 30
                 }
             ]
         }
