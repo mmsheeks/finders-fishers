@@ -1,0 +1,42 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "functions": [
+                {
+                    "function": "minecraft:set_name",
+                    "name": {
+                        "text": "Fisherman's Bundle",
+                        "color": "#FFFDD0"
+                    }
+                },
+                {
+                    "function": "minecraft:set_lore",
+                    "lore": [
+                        {
+                            "text": "Someone must have dropped this...",
+                            "color": "gray"
+                        }
+                    ],
+                    "mode": "replace_all"
+                },
+                {
+                    "function": "minecraft:set_contents",
+                    "component": "bundle_contents",
+                    "entries": [
+                        {
+                            "type": "loot_table",
+                            "value": "findersfishers:gameplay/bundles/normal"
+                        }
+                    ]
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "findersfishers:gameplay/bundles/bundles"
+                }
+            ]
+        }
+    ]
+}

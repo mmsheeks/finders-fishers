@@ -1,0 +1,43 @@
+{
+    "pools": [
+        {
+            "rolls": {
+                "max": 12,
+                "min": 3
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "cod",
+                    "weight": 50
+                },
+                {
+                    "type": "item",
+                    "name": "salmon",
+                    "weight": 50
+                },
+                {
+                    "type": "item",
+                    "name": "cooked_cod",
+                    "weight": 50
+                },
+                {
+                    "type": "item",
+                    "name": "cooked_salmon",
+                    "weight": 50
+                },
+                {
+                    "type": "item",
+                    "name": "ink_sac",
+                    "weight": 40
+                },
+                {
+                    "type": "item",
+                    "name": "rotten_flesh",
+                    "weight": 40
+                }
+            ]
+        }
+    ],
+    "random_sequence": "gameplay/fishing"
+}
